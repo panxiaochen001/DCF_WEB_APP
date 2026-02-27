@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+tushare
+google-genai
+plotly
